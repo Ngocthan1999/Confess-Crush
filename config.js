@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Anh biết Bé sẻ chọn đồng ý mà kaka . bé có lời yêu thương nào muốn gửi đến anh yêu hong <3',
     btnReply: 'Gửi cho anh nè <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết Bé nói dậy mà🥰. Yêu bé nhiều nhiều 😘😘',
     messDesc: 'Chốt lại chúc bé 8/3 dui dẻ nghen, dìa sài gòn a đón đi chơi nha.',
     btnAccept: 'Okiiiii ạ <3',
